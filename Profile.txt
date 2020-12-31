@@ -1,0 +1,15 @@
+S001,ChuiYeeChong,20,Female,3/3/2000,CCY,2020,Staff
+S002,MichelleLee,23,Female,16/8/1997,Lee,2033,Staff
+T001,ZhengYu,20,Male,5/10/2000,Lim,daniel,Trainer
+T002,Alex,24,Male,10/10/1996,xlea,5454,Trainer
+TP051110,ManKitChong,25,Male,7/1/1999,Chong,0701,Student
+TP051111,janice,25,Female,28/12/1997,Chye,1228,Student
+TP051112,Calvin,26,Male,22/12/1996,Leong,1222,Student
+TP051113,Michelle,20,Female,8/8/2000,ManEe,1234,Student
+TP051114,Alvin,21,Male,25/12/1999,Loh,alvin,Student
+TP051115,jiatian,20,female,11/11/2000,Lai,2000,Student
+TP051116,Micheal,20,Male,9/9/2020,MK,5555,Student
+T003,Hong,30,Male,5/5/1990,Han,4444,Trainer
+T004,John,24,Male,10/11/1996,Liou,66,Trainer
+T005,ali,30,Male,10/10/1990,lia,leo,Trainer
+TP051117,loh,22,female,5/5/1998,May,4444,Student

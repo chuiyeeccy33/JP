@@ -1,0 +1,28 @@
+Intellectual Disability,10am - 12pm,5/5/2020,50,auditorium,Alex
+Intellectual Disability,10am - 12pm,2/4/2020,50,classroom,Alex
+Medical Secretary,3pm - 5pm,25/5/2020,30,classroom,Alex
+Biostatistics in Public Health,5.30pm - 7.30pm,6/5/2020,70,classroom,Alex
+Biostatistics in Public Health,10am - 12pm,14/4/2020,70,classroom,Alex
+Intellectual Disability,5.30pm - 7.30pm,5/5/2020,50,auditorium,Hong
+Biostatistics in Public Health,3pm - 5pm,9/2/2020,70,auditorium,Hong
+Health Economics,10am - 12pm,20/2/2020,40,classroom,Hong
+Fundamental of Advocacy in Health Policy,12.30pm - 2.30pm,24/3/2020,60,classroom,Hong
+Medical Secretary,10am - 12pm,10/2/2020,30,classroom,Hong
+Medical Secretary,5.30pm - 7.30pm,12/3/2020,30,classroom,Lee
+Intellectual Disability,12.30pm - 2.30pm,10/4/2020,50,classroom,Lee
+Intellectual Disability,3pm - 5pm,30/2/2020,50,auditorium,Lee
+Biostatistics in Public Health,12.30pm - 2.30pm,25/2/2020,70,classroom,Lee
+Medical Secretary,3pm - 5pm,25/5/2020,30,classroom,Lee
+Intellectual Disability,12.30pm - 2.30pm,12/2/2020,50,classroom,ZhengYu
+Fundamental of Advocacy in Health Policy,12.30pm - 2.30pm,25/2/2020,60,classroom,ZhengYu
+Health Economics,5.30pm - 7.30pm,6/5/2020,40,classroom,ZhengYu
+Fundamental of Advocacy in Health Policy,10am - 12pm,14/4/2020,60,classroom,ZhengYu
+Biostatistics in Public Health,10am - 12pm,5/5/2020,70,classroom,John
+Health Economics,12.30pm - 2.30pm,10/2/2020,40,Classroorm,John
+Fundamental of Advocacy in Health Policy,12.30pm - 2.30pm,15/2/2020,60,classroom,John
+Intellectual Disability,12.30pm - 2.30pm,10/10/2020,50,classroom,John
+Intellectual Disability,10am - 12pm,25/2/2020,50,classroom,John
+Fundamental of Advocacy in Health Policy,12.30pm - 2.30pm,14/4/2020,60,classroom,ZhengYu
+Intellectual Disability,3pm - 5pm,5/5/2020,50,classroom,ZhengYu
+Medical Secretary,3pm - 5pm,25/5/2020,30,classroom,ZhengYu
+Biostatistics in Public Health,3pm - 5pm,25/5/2020,70,classroom,ZhengYu

@@ -1,0 +1,5 @@
+Intellectual Disability,50
+Biostatistics in Public Health,70
+Medical Secretary,30
+Health Economics,40
+Fundamental of Advocacy in Health Policy,60

@@ -1,0 +1,7 @@
+S001,C005,TP051112,Biostatistics in Public Health,ZhengYu,February,70,100,RM30,Student
+S001,C006,TP051113,Biostatistics in Public Health,John,January,70,100,RM30,Student
+S001,C002,TP051117,Health Economics,Alex,March,40,50,RM10,Student
+S001,C007,TP051110,Intellectual Disability,ZhengYu,January,50,50,RM0,Student
+S001,C004,TP051111,Intellectual Disability,ZhengYu,January,50,100,RM50,Student
+S001,C001,TP051110,Intellectual Disability,ZhengYu,January,50,100,RM50,Student
+S001,C009,TP051110,Biostatistics in Public Health,Alex,February,70,100,RM30,Student
